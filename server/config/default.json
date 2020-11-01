@@ -1,4 +1,0 @@
-{
-  "port": "5000",
-  "mongoUri": "mongodb+srv://yan:qazwsx123@users.3na6p.mongodb.net/users?retryWrites=true&w=majority"
-}
